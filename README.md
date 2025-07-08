@@ -1,6 +1,6 @@
 <h1 align="center">✨ Lunatine</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=6165EC&center=true&vCenter=true&width=435&lines=Web+Developer;Python+Tinkerer;C%2B%2B+Explorer;Always+reaching+for+the+stars+%F0%9F%8C%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=6165EC&center=true&vCenter=true&width=435&lines=Web+Developer;Caffeine addict" alt="Typing SVG" />
 </p>
 
 ---
