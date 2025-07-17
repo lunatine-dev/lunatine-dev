@@ -6,7 +6,7 @@
 ---
 
 ### 🌙 About Me
-- 🧪 **Name:** Lunatine / Astatine  
+- 🧪 **Name:** Lunatine 
 - 🇬🇧 **From:** United Kingdom  
 - 🛠️ **Age:** 25  
 - 🌌 **Passions:** Full-stack web dev, Python scripts, dabbling in C++ & creative side projects  
