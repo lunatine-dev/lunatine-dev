@@ -8,7 +8,7 @@
 ### 🌙 About Me
 - 🧪 **Name:** Lunatine 
 - 🇬🇧 **From:** United Kingdom  
-- 🛠️ **Age:** 25  
+- 🛠️ **Age:** 26
 - 🌌 **Passions:** Full-stack web dev, Python scripts, dabbling in C++ & creative side projects  
 - 🚀 **Website:** [lunatine.dev](https://lunatine.dev)
 
