@@ -35,8 +35,3 @@
 ### 🌌 Socials
 [![Website](https://img.shields.io/badge/Website-6165ec?style=for-the-badge&logo=firefox&logoColor=white)](https://lunatine.dev)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lunatine-dev&color=6165ec&style=flat-square" alt="Profile views" />
-</p>
